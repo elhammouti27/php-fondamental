@@ -74,6 +74,8 @@ function numberNoms($firstnames)
         echo '<ul>' .'<li>' . $user['firstname'] . ' ' . $user['lastname'] . '(' . $user['email'] . ')' . '</li>' . '</ul>';
     }
     ?>
+
+   
 </body>
 
 </html>
